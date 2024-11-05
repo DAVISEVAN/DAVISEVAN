@@ -6,5 +6,5 @@
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,git,postman,heroku,vercel)](https://skillicons.dev)
 ## Learning
 [![My Skills](https://skillicons.dev/icons?i=py,django,flask)](https://skillicons.dev)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentageicons=true&show_icons=true&theme=merko)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=pie&theme=merko)](https://github.com/YOURUSERNAME/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAVISEVAN&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentageicons=true&show_icons=true&theme=merko)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAVISEVAN&layout=pie&theme=merko)](https://github.com/DAVISEVAN/github-readme-stats)
 <!---
